@@ -1,11 +1,11 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10026,45:1a0033,100:02267d&height=240&section=header&text=Coding%20Guruji&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Your%20Daily%20Dose%20of%20Code%20%26%20Motivation&descSize=22&descAlignY=60" alt="Coding Guruji Banner"/>
+  <img src="assets/banner.svg" alt="Coding Guruji - Your Daily Dose of Code & Motivation" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/@codinggurujiofficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3030&center=true&vCenter=true&width=700&lines=Learn+to+Code.+Stay+Motivated.+Keep+Growing.;MERN+Stack+%7C+JavaScript+%7C+DSA+%7C+Web+Development;Daily+Coding+Tips%2C+Tutorials+%26+Career+Guidance;Building+a+Community+of+Passionate+Developers" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF3030&center=true&vCenter=true&width=900&height=40&lines=Learn+to+Code.+Stay+Motivated.+Keep+Growing.;MERN+Stack+%7C+JavaScript+%7C+DSA+%7C+Web+Development;Daily+Coding+Tips%2C+Tutorials+%26+Career+Guidance;Small+Steps+Every+Day+Build+Big+Careers+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -50,6 +50,31 @@ Whether you are writing your first line of code or preparing for your first deve
 
 ---
 
+# 🔥 Why Learners Love Following Coding Guruji
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>🎯<br/>Clear</h3>Simple explanations that make tough topics click</td>
+    <td align="center" width="25%"><h3>⚡<br/>Daily</h3>Fresh coding tips and bite-sized lessons every day</td>
+    <td align="center" width="25%"><h3>🛠️<br/>Practical</h3>Real projects that build skills and a strong portfolio</td>
+    <td align="center" width="25%"><h3>💪<br/>Motivating</h3>Positive energy to keep you going on hard days</td>
+  </tr>
+</table>
+
+<h3 align="center">🌟 You don't need to be perfect to start. You just need to start. 🌟</h3>
+
+### ✅ Your Daily Coding Checklist
+
+- [x] Show up today, even for 30 minutes
+- [x] Learn one new concept
+- [x] Build or fix something small
+- [x] Be proud of your progress
+- [ ] Repeat tomorrow and watch yourself grow 🚀
+
+> 💬 *"Every expert was once a beginner. Every bug you fix makes you stronger. Keep going!"*
+
+---
+
 # 🌐 Connect With Us
 
 <p align="center">
@@ -59,6 +84,8 @@ Whether you are writing your first line of code or preparing for your first deve
   <a href="https://x.com/guruji_coding"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.facebook.com/profile.php?id=61580362684959"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+
+<p align="center"><b>👉 Follow us on every platform and never miss your daily dose of code &amp; motivation!</b></p>
 
 ---
 
@@ -119,14 +146,8 @@ Whether you are writing your first line of code or preparing for your first deve
   <img src="https://streak-stats.demolab.com?user=codinggurujiofficial&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codinggurujiofficial&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 ---
 
-<h3 align="center">⭐ Follow us, learn daily and code with confidence. Let's grow together! 🚀</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02267d,55:1a0033,100:E10026&height=120&section=footer" alt="Footer"/>
+  <img src="assets/footer.svg" alt="Keep Coding. Keep Growing. You've Got This!" width="100%"/>
 </p>
